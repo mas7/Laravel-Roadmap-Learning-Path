@@ -128,9 +128,9 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Topic | Learning Links |
 | ----- | ----- |
 | **Routing Extra Features** ||
-| Route Caching |:book: [Route Caching](https://laravel.com/docs/routing#route-caching) <br>|
-| Rate Limiting |:book: [Rate Limiting](https://laravel.com/docs/routing#rate-limiting) <br>:clapper: [Laravel: Create Public API with Cache and Rate Limits](https://www.youtube.com/watch?v=vrLcCxWlxOk) <br>|
-| Invokable controllers |:book: [Single Action Controllers](https://laravel.com/docs/controllers#single-action-controllers) <br>|
+| Route Caching [D] |:book: [Route Caching](https://laravel.com/docs/routing#route-caching) <br>|
+| Rate Limiting [D] |:book: [Rate Limiting](https://laravel.com/docs/routing#rate-limiting) <br>:clapper: [Laravel: Create Public API with Cache and Rate Limits](https://www.youtube.com/watch?v=vrLcCxWlxOk) <br>|
+| Invokable controllers [D] |:book: [Single Action Controllers](https://laravel.com/docs/controllers#single-action-controllers) <br>|
 | **Database/Eloquent Extra Features** ||
 | Model Observers |:book: [Eloquent Observers](https://laravel.com/docs/eloquent#observers) <br>:clapper: [Laravel Model: Check if Any Field Was Changed](https://www.youtube.com/watch?v=_xluet13xxE) <br>:clapper: [Eloquent Observers or Events Listeners? Which is Better?](https://www.youtube.com/watch?v=DvoaU6cQQHM) <br>|
 | Raw Database Queries |:book: [Query Builder: Raw Expressions](https://laravel.com/docs/queries#raw-expressions) <br>|
